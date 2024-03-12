@@ -1,0 +1,15 @@
+http://localhost:8081/api/posts   postmethod
+json object
+{
+  "title": "Oceann",
+  "description": "clear bluee",
+  "content": "Vastt"
+}
+http://localhost:8081/api/posts/a5b137a0-ff73-48e5-838a-8d7fc35bd04d                getMethod
+response we get
+{
+    "id": "a5b137a0-ff73-48e5-838a-8d7fc35bd04d",
+    "title": "Oceann",
+    "description": "clear bluee",
+    "content": "Vastt"
+}
